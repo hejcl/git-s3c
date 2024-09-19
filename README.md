@@ -1,1 +1,7 @@
-"# git-s3c" 
+# git-s3c 
+
+## Contributors
+
+- Matej Hejcl
+
+- 
