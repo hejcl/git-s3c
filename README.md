@@ -1,4 +1,4 @@
-# git-s3c 
+# GIT S3C 
 
 ## Contributors
 
